@@ -332,16 +332,16 @@
         },
         {
             "name": "egulias/email-validator",
-            "version": "2.1.13",
+            "version": "2.1.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/egulias/EmailValidator.git",
-                "reference": "834593d5900615639208417760ba6a17299e2497"
+                "reference": "c4b8d12921999d8a561004371701dbc2e05b5ece"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/egulias/EmailValidator/zipball/834593d5900615639208417760ba6a17299e2497",
-                "reference": "834593d5900615639208417760ba6a17299e2497",
+                "url": "https://api.github.com/repos/egulias/EmailValidator/zipball/c4b8d12921999d8a561004371701dbc2e05b5ece",
+                "reference": "c4b8d12921999d8a561004371701dbc2e05b5ece",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -391,7 +391,7 @@
                 "validation",
                 "validator"
             ],
-            "time": "2019-12-30T08:14:25+00:00"
+            "time": "2020-01-05T14:11:20+00:00"
         },
         {
             "name": "fig/http-message-util",
@@ -1273,16 +1273,16 @@
         },
         {
             "name": "hyperf/di",
-            "version": "v1.1.13",
+            "version": "v1.1.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hyperf/di.git",
-                "reference": "89814e8e1f5db54c36adaf668eb68f768620f88c"
+                "reference": "fc1533888cdf44e05651fe8e669895d7c69c05da"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hyperf/di/zipball/89814e8e1f5db54c36adaf668eb68f768620f88c",
-                "reference": "89814e8e1f5db54c36adaf668eb68f768620f88c",
+                "url": "https://api.github.com/repos/hyperf/di/zipball/fc1533888cdf44e05651fe8e669895d7c69c05da",
+                "reference": "fc1533888cdf44e05651fe8e669895d7c69c05da",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -1343,7 +1343,7 @@
                 "php",
                 "swoole"
             ],
-            "time": "2020-01-03T06:56:05+00:00"
+            "time": "2020-01-09T11:43:24+00:00"
         },
         {
             "name": "hyperf/dispatcher",
@@ -1783,16 +1783,16 @@
         },
         {
             "name": "hyperf/json-rpc",
-            "version": "v1.1.12",
+            "version": "v1.1.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hyperf/json-rpc.git",
-                "reference": "9771cdc7ba98a5eac0840d0ef9da7a9be32c406c"
+                "reference": "2e0c7e1d7b6fb9cc53db44022176ff339eb29c24"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hyperf/json-rpc/zipball/9771cdc7ba98a5eac0840d0ef9da7a9be32c406c",
-                "reference": "9771cdc7ba98a5eac0840d0ef9da7a9be32c406c",
+                "url": "https://api.github.com/repos/hyperf/json-rpc/zipball/2e0c7e1d7b6fb9cc53db44022176ff339eb29c24",
+                "reference": "2e0c7e1d7b6fb9cc53db44022176ff339eb29c24",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -1849,7 +1849,7 @@
                 "php",
                 "swoole"
             ],
-            "time": "2019-12-24T07:46:14+00:00"
+            "time": "2020-01-10T09:02:32+00:00"
         },
         {
             "name": "hyperf/load-balancer",
@@ -2154,16 +2154,16 @@
         },
         {
             "name": "hyperf/pool",
-            "version": "v1.1.8",
+            "version": "v1.1.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hyperf/pool.git",
-                "reference": "7da88454ea22cdde59cf828bccb0d8ad8c3dea71"
+                "reference": "ac1497080788f57b3f3b9955a868ae8a8f80e0b0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hyperf/pool/zipball/7da88454ea22cdde59cf828bccb0d8ad8c3dea71",
-                "reference": "7da88454ea22cdde59cf828bccb0d8ad8c3dea71",
+                "url": "https://api.github.com/repos/hyperf/pool/zipball/ac1497080788f57b3f3b9955a868ae8a8f80e0b0",
+                "reference": "ac1497080788f57b3f3b9955a868ae8a8f80e0b0",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -2209,7 +2209,7 @@
                 "php",
                 "swoole"
             ],
-            "time": "2019-11-24T09:21:57+00:00"
+            "time": "2019-12-20T01:47:04+00:00"
         },
         {
             "name": "hyperf/process",
@@ -2342,16 +2342,16 @@
         },
         {
             "name": "hyperf/rpc",
-            "version": "v1.1.12",
+            "version": "v1.1.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hyperf/rpc.git",
-                "reference": "5828ea9633581a48b583d8872cf507f7ac8105a3"
+                "reference": "4933fe62d1ef5dc93531fb4e063d456033ecca5d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hyperf/rpc/zipball/5828ea9633581a48b583d8872cf507f7ac8105a3",
-                "reference": "5828ea9633581a48b583d8872cf507f7ac8105a3",
+                "url": "https://api.github.com/repos/hyperf/rpc/zipball/4933fe62d1ef5dc93531fb4e063d456033ecca5d",
+                "reference": "4933fe62d1ef5dc93531fb4e063d456033ecca5d",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -2394,20 +2394,20 @@
                 "rpc",
                 "swoole"
             ],
-            "time": "2019-12-24T05:14:00+00:00"
+            "time": "2020-01-07T02:49:49+00:00"
         },
         {
             "name": "hyperf/rpc-client",
-            "version": "v1.1.12",
+            "version": "v1.1.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hyperf/rpc-client.git",
-                "reference": "6952e15dd28f0e634fbe62f204e06d68bb456bd3"
+                "reference": "32bf255b92e31a8072cea52df72c92396cc216c9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hyperf/rpc-client/zipball/6952e15dd28f0e634fbe62f204e06d68bb456bd3",
-                "reference": "6952e15dd28f0e634fbe62f204e06d68bb456bd3",
+                "url": "https://api.github.com/repos/hyperf/rpc-client/zipball/32bf255b92e31a8072cea52df72c92396cc216c9",
+                "reference": "32bf255b92e31a8072cea52df72c92396cc216c9",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -2461,20 +2461,20 @@
                 "rpc-client",
                 "swoole"
             ],
-            "time": "2019-12-24T03:22:29+00:00"
+            "time": "2020-01-09T10:58:55+00:00"
         },
         {
             "name": "hyperf/rpc-server",
-            "version": "v1.1.12",
+            "version": "v1.1.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hyperf/rpc-server.git",
-                "reference": "4747ee3d99da275f5c8f4d9b4b2c327c74815ff0"
+                "reference": "c7444ee72924d4fae706ba059b3334ef3af96798"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hyperf/rpc-server/zipball/4747ee3d99da275f5c8f4d9b4b2c327c74815ff0",
-                "reference": "4747ee3d99da275f5c8f4d9b4b2c327c74815ff0",
+                "url": "https://api.github.com/repos/hyperf/rpc-server/zipball/c7444ee72924d4fae706ba059b3334ef3af96798",
+                "reference": "c7444ee72924d4fae706ba059b3334ef3af96798",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -2523,7 +2523,7 @@
                 "rpc-server",
                 "swoole"
             ],
-            "time": "2019-12-25T10:08:38+00:00"
+            "time": "2019-12-31T04:03:50+00:00"
         },
         {
             "name": "hyperf/server",
@@ -2712,16 +2712,16 @@
         },
         {
             "name": "hyperf/utils",
-            "version": "v1.1.12",
+            "version": "v1.1.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/hyperf/utils.git",
-                "reference": "1630ba5f02693ad2d94a1f67a9d51d8b4e5b1528"
+                "reference": "1385749b3268e46672edb9f556ad0a1024c6cdf5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hyperf/utils/zipball/1630ba5f02693ad2d94a1f67a9d51d8b4e5b1528",
-                "reference": "1630ba5f02693ad2d94a1f67a9d51d8b4e5b1528",
+                "url": "https://api.github.com/repos/hyperf/utils/zipball/1385749b3268e46672edb9f556ad0a1024c6cdf5",
+                "reference": "1385749b3268e46672edb9f556ad0a1024c6cdf5",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -2779,7 +2779,7 @@
                 "swoole",
                 "utils"
             ],
-            "time": "2019-12-26T06:55:41+00:00"
+            "time": "2020-01-10T01:51:58+00:00"
         },
         {
             "name": "hyperf/validation",
@@ -3020,16 +3020,16 @@
         },
         {
             "name": "laminas/laminas-zendframework-bridge",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laminas/laminas-zendframework-bridge.git",
-                "reference": "32d7095e436a31b8d98e485a5c63d70df74915a8"
+                "reference": "0fb9675b84a1666ab45182b6c5b29956921e818d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laminas/laminas-zendframework-bridge/zipball/32d7095e436a31b8d98e485a5c63d70df74915a8",
-                "reference": "32d7095e436a31b8d98e485a5c63d70df74915a8",
+                "url": "https://api.github.com/repos/laminas/laminas-zendframework-bridge/zipball/0fb9675b84a1666ab45182b6c5b29956921e818d",
+                "reference": "0fb9675b84a1666ab45182b6c5b29956921e818d",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -3074,7 +3074,7 @@
                 "laminas",
                 "zf"
             ],
-            "time": "2019-12-31T15:24:03+00:00"
+            "time": "2020-01-07T22:58:31+00:00"
         },
         {
             "name": "lcobucci/jwt",
@@ -4799,16 +4799,16 @@
     "packages-dev": [
         {
             "name": "composer/semver",
-            "version": "1.5.0",
+            "version": "1.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/semver.git",
-                "reference": "46d9139568ccb8d9e7cdd4539cab7347568a5e2e"
+                "reference": "c6bea70230ef4dd483e6bbcab6005f682ed3a8de"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/semver/zipball/46d9139568ccb8d9e7cdd4539cab7347568a5e2e",
-                "reference": "46d9139568ccb8d9e7cdd4539cab7347568a5e2e",
+                "url": "https://api.github.com/repos/composer/semver/zipball/c6bea70230ef4dd483e6bbcab6005f682ed3a8de",
+                "reference": "c6bea70230ef4dd483e6bbcab6005f682ed3a8de",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -4821,8 +4821,7 @@
                 "php": "^5.3.2 || ^7.0"
             },
             "require-dev": {
-                "phpunit/phpunit": "^4.5 || ^5.0.5",
-                "phpunit/phpunit-mock-objects": "2.3.0 || ^3.0"
+                "phpunit/phpunit": "^4.5 || ^5.0.5"
             },
             "type": "library",
             "extra": {
@@ -4863,7 +4862,7 @@
                 "validation",
                 "versioning"
             ],
-            "time": "2019-03-19T17:25:45+00:00"
+            "time": "2020-01-13T12:06:48+00:00"
         },
         {
             "name": "composer/xdebug-handler",
@@ -5081,16 +5080,16 @@
         },
         {
             "name": "doctrine/common",
-            "version": "v2.11.0",
+            "version": "2.12.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/common.git",
-                "reference": "b8ca1dcf6b0dc8a2af7a09baac8d0c48345df4ff"
+                "reference": "2053eafdf60c2172ee1373d1b9289ba1db7f1fc6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/common/zipball/b8ca1dcf6b0dc8a2af7a09baac8d0c48345df4ff",
-                "reference": "b8ca1dcf6b0dc8a2af7a09baac8d0c48345df4ff",
+                "url": "https://api.github.com/repos/doctrine/common/zipball/2053eafdf60c2172ee1373d1b9289ba1db7f1fc6",
+                "reference": "2053eafdf60c2172ee1373d1b9289ba1db7f1fc6",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -5166,7 +5165,7 @@
                 "doctrine",
                 "php"
             ],
-            "time": "2019-09-10T10:10:14+00:00"
+            "time": "2020-01-10T15:49:25+00:00"
         },
         {
             "name": "doctrine/event-manager",
@@ -5252,16 +5251,16 @@
         },
         {
             "name": "doctrine/persistence",
-            "version": "1.3.3",
+            "version": "1.3.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/persistence.git",
-                "reference": "99b196bbd4715a94fa100fac664a351ffa46d6a5"
+                "reference": "be70c016fdcd44a428405ee062ebcdd01a6867cd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/persistence/zipball/99b196bbd4715a94fa100fac664a351ffa46d6a5",
-                "reference": "99b196bbd4715a94fa100fac664a351ffa46d6a5",
+                "url": "https://api.github.com/repos/doctrine/persistence/zipball/be70c016fdcd44a428405ee062ebcdd01a6867cd",
+                "reference": "be70c016fdcd44a428405ee062ebcdd01a6867cd",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -5337,20 +5336,20 @@
                 "orm",
                 "persistence"
             ],
-            "time": "2019-12-13T10:43:02+00:00"
+            "time": "2020-01-14T18:44:12+00:00"
         },
         {
             "name": "doctrine/reflection",
-            "version": "v1.0.0",
+            "version": "v1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/reflection.git",
-                "reference": "02538d3f95e88eb397a5f86274deb2c6175c2ab6"
+                "reference": "bc420ead87fdfe08c03ecc3549db603a45b06d4c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/reflection/zipball/02538d3f95e88eb397a5f86274deb2c6175c2ab6",
-                "reference": "02538d3f95e88eb397a5f86274deb2c6175c2ab6",
+                "url": "https://api.github.com/repos/doctrine/reflection/zipball/bc420ead87fdfe08c03ecc3549db603a45b06d4c",
+                "reference": "bc420ead87fdfe08c03ecc3549db603a45b06d4c",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -5364,13 +5363,15 @@
                 "ext-tokenizer": "*",
                 "php": "^7.1"
             },
+            "conflict": {
+                "doctrine/common": "<2.9"
+            },
             "require-dev": {
-                "doctrine/coding-standard": "^4.0",
-                "doctrine/common": "^2.8",
-                "phpstan/phpstan": "^0.9.2",
-                "phpstan/phpstan-phpunit": "^0.9.4",
-                "phpunit/phpunit": "^7.0",
-                "squizlabs/php_codesniffer": "^3.0"
+                "doctrine/coding-standard": "^5.0",
+                "doctrine/common": "^2.10",
+                "phpstan/phpstan": "^0.11.0",
+                "phpstan/phpstan-phpunit": "^0.11.0",
+                "phpunit/phpunit": "^7.0"
             },
             "type": "library",
             "extra": {
@@ -5389,16 +5390,16 @@
             ],
             "authors": [
                 {
+                    "name": "Guilherme Blanco",
+                    "email": "guilhermeblanco@gmail.com"
+                },
+                {
                     "name": "Roman Borschel",
                     "email": "roman@code-factory.org"
                 },
                 {
                     "name": "Benjamin Eberlei",
                     "email": "kontakt@beberlei.de"
-                },
-                {
-                    "name": "Guilherme Blanco",
-                    "email": "guilhermeblanco@gmail.com"
                 },
                 {
                     "name": "Jonathan Wage",
@@ -5413,12 +5414,13 @@
                     "email": "ocramius@gmail.com"
                 }
             ],
-            "description": "Doctrine Reflection component",
+            "description": "The Doctrine Reflection project is a simple library used by the various Doctrine projects which adds some additional functionality on top of the reflection functionality that comes with PHP. It allows you to get the reflection information about classes, methods and properties statically.",
             "homepage": "https://www.doctrine-project.org/projects/reflection.html",
             "keywords": [
-                "reflection"
+                "reflection",
+                "static"
             ],
-            "time": "2018-06-14T14:45:07+00:00"
+            "time": "2020-01-08T19:53:19+00:00"
         },
         {
             "name": "friendsofphp/php-cs-fixer",
@@ -7454,16 +7456,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "7.5.19",
+            "version": "7.5.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "4263f76a3fc65385e242ef7357b99f3bed36707e"
+                "reference": "9467db479d1b0487c99733bb1e7944d32deded2c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/4263f76a3fc65385e242ef7357b99f3bed36707e",
-                "reference": "4263f76a3fc65385e242ef7357b99f3bed36707e",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/9467db479d1b0487c99733bb1e7944d32deded2c",
+                "reference": "9467db479d1b0487c99733bb1e7944d32deded2c",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -7540,7 +7542,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2020-01-06T16:53:05+00:00"
+            "time": "2020-01-08T08:45:45+00:00"
         },
         {
             "name": "sebastian/code-unit-reverse-lookup",
